@@ -4,10 +4,13 @@ I built PDF Workbench for everyday jobs like joining PDFs, pulling out a few pag
 
 The web tools run in your browser. Your PDFs and images stay on your device.
 
-- [Maple Digital Services](https://mapleds.pages.dev/) — the main site and guides
-- [PDF Workbench](https://mapleds-pdf.pages.dev/) — merge, split, or build a PDF
-- [Maple Image Workbench](https://mapleds-image.pages.dev/) — edit images and apply filters
-- [Maple Image Stitch](https://mapleds-stitch.pages.dev/) — join overlapping scans or photos
+## Try the web apps
+
+- **PDF Workbench.** Merge PDFs and images, put files in order, split a PDF into separate parts, or pick pages from several files to build a new PDF. Zoom in on the preview, rotate or flip individual pages, and choose the paper size and orientation before saving. [Open PDF Workbench](https://mapleds-pdf.pages.dev/)
+- **Maple Image Workbench.** Crop, rotate, resize, and adjust photos, or use advanced OpenCV filters for jobs like finding edges and reducing noise. Save your editing steps as a recipe, apply them to a batch, or export the steps as Python code. [Open Maple Image Workbench](https://mapleds-image.pages.dev/)
+- **Maple Image Stitch.** Join overlapping scans, map sections, or photos into one image. Try a sample to see how the alignment works, then save your result as PNG, JPEG, or WebP. [Open Maple Image Stitch](https://mapleds-stitch.pages.dev/)
+
+My main site has guides and smaller tools, including image compression, PDF to images, PDF rotation, and page numbering. [Visit Maple Digital Services](https://mapleds.pages.dev/)
 
 ## What’s extra in the Windows app
 
