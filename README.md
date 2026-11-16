@@ -1,25 +1,39 @@
-# PDF Workbench
+# PDF Workbench | Maple Digital Services
 
-I built PDF Workbench for everyday jobs like joining PDFs, pulling out a few pages, and putting scans into a single document. You can rearrange files, check pages in the preview, and fit the output to Letter or another paper size.
+I built PDF Workbench to make everyday document tasks easier, from combining scans to pulling a few pages out of a long PDF. The web apps process files in your browser, so your documents and images stay on your device.
 
-The web tools run in your browser. Your PDFs and images stay on your device.
+## Web apps
 
-## Try the web apps
+### [PDF Workbench](https://mapleds-pdf.pages.dev/)
 
-- **PDF Workbench.** Merge PDFs and images, put files in order, split a PDF into separate parts, or pick pages from several files to build a new PDF. Zoom in on the preview, rotate or flip individual pages, and choose the paper size and orientation before saving. [Open PDF Workbench](https://mapleds-pdf.pages.dev/)
-- **Maple Image Workbench.** Crop, rotate, resize, and adjust photos, or use advanced OpenCV filters for jobs like finding edges and reducing noise. Save your editing steps as a recipe, apply them to a batch, or export the steps as Python code. [Open Maple Image Workbench](https://mapleds-image.pages.dev/)
-- **Maple Image Stitch.** Join overlapping scans, map sections, or photos into one image. Try a sample to see how the alignment works, then save your result as PNG, JPEG, or WebP. [Open Maple Image Stitch](https://mapleds-stitch.pages.dev/)
+- Merge PDFs and images into one document and arrange them in the order you need.
+- Extract selected pages, split a PDF into separate files, or build a new PDF from pages in several documents.
+- Expand the preview, zoom in to read small text, and rotate or flip individual pages in Merge and Build.
+- Keep original page sizes or fit pages to Letter or another paper size.
 
-My main site has guides and smaller tools, including image compression, PDF to images, PDF rotation, and page numbering. [Visit Maple Digital Services](https://mapleds.pages.dev/)
+### [Maple Image Workbench](https://mapleds-image.pages.dev/)
 
-## What’s extra in the Windows app
+- Crop, rotate, resize, and adjust brightness or contrast.
+- Use OpenCV tools for tasks such as noise reduction and edge detection.
+- Save your editing steps, apply them to a batch of images, or export them as Python code.
 
-- **PDF compression.** Compress several PDFs at once. Choose how much image detail to keep, or use Extreme Scan for large scanned documents.
-- **Image editing inside the PDF app.** Crop, straighten, rotate, flip, or adjust brightness and contrast before saving. You can preview your edits, compare them with the original, and undo them.
-- **More file types.** Add TIFFs, including files with multiple pages. You can also open password-protected PDFs when you know the password.
-- **Offline use.** The portable Windows app runs locally once you have it.
+### [Maple Image Stitch](https://mapleds-stitch.pages.dev/)
 
-If you’d like a copy of PDF Workbench for Windows, email me at [mapleds.support@gmail.com](mailto:mapleds.support@gmail.com?subject=PDF%20Workbench%20for%20Windows). You can use the same address if you have a question or run into a problem.
+- Join overlapping photos, scans, or map sections into one image.
+- Try a sample set and review the alignment before exporting.
+- Save the result as PNG, JPEG, or WebP.
 
-Imran Hassan  
-Maple Digital Services
+Visit [Maple Digital Services](https://mapleds.pages.dev/) for guides and more tools, including image compression, PDF-to-image conversion, PDF rotation, and page numbering.
+
+## PDF Workbench for Windows
+
+The Windows edition includes the core PDF tools and adds:
+
+- **Batch PDF compression.** Choose a preset for everyday PDFs or use Extreme Scan when scanned pages need stronger compression.
+- **Built-in image editing.** Crop, straighten, rotate, flip, or adjust images before putting them into a PDF. Compare edits with the original and undo changes as needed.
+- **TIFF and password-protected PDF support.** Import single-page or multi-page TIFFs, and open protected PDFs with the correct password.
+- **Offline use.** Run the portable app on Windows without an internet connection.
+
+**To request the Windows app, email [mapleds.support@gmail.com](mailto:mapleds.support@gmail.com?subject=PDF%20Workbench%20for%20Windows).**
+
+Imran Hassan, Maple Digital Services
