@@ -2,6 +2,10 @@
 
 I built PDF Workbench to make everyday document tasks easier, from combining scans to pulling a few pages out of a long PDF. The web apps process files in your browser, so your documents and images stay on your device.
 
+**Support email** — [mapleds.support@gmail.com](mailto:mapleds.support@gmail.com)
+
+Email me for help or to request a copy of PDF Workbench for Windows.
+
 ## Web apps
 
 ### [PDF Workbench](https://mapleds-pdf.pages.dev/)
