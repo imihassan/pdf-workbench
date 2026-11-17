@@ -36,7 +36,7 @@ The Windows edition includes the core PDF tools and adds:
 - **Batch PDF compression.** Choose a preset for everyday PDFs or use Extreme Scan when scanned pages need stronger compression.
 - **Built-in image editing.** Crop, straighten, rotate, flip, or adjust images before putting them into a PDF. Compare edits with the original and undo changes as needed.
 - **TIFF and password-protected PDF support.** Import single-page or multi-page TIFFs, and open protected PDFs with the correct password.
-- **Password protection.** Save a separate encrypted copy of a PDF that requires a password to open.
+- **Password Protect tab.** Open a PDF, set a password, and save a separate encrypted copy that requires the password to open.
 - **Offline use.** Run the portable app on Windows without an internet connection.
 
 **To request the Windows app, email [mapleds.support@gmail.com](mailto:mapleds.support@gmail.com?subject=PDF%20Workbench%20for%20Windows).**
